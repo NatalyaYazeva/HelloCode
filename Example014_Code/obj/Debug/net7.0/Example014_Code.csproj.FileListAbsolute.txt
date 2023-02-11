@@ -1,0 +1,15 @@
+D:\GB\Языки программирования\Examples\Example014_Code\bin\Debug\net7.0\Example014_Code.exe
+D:\GB\Языки программирования\Examples\Example014_Code\bin\Debug\net7.0\Example014_Code.deps.json
+D:\GB\Языки программирования\Examples\Example014_Code\bin\Debug\net7.0\Example014_Code.runtimeconfig.json
+D:\GB\Языки программирования\Examples\Example014_Code\bin\Debug\net7.0\Example014_Code.dll
+D:\GB\Языки программирования\Examples\Example014_Code\bin\Debug\net7.0\Example014_Code.pdb
+D:\GB\Языки программирования\Examples\Example014_Code\obj\Debug\net7.0\Example014_Code.csproj.AssemblyReference.cache
+D:\GB\Языки программирования\Examples\Example014_Code\obj\Debug\net7.0\Example014_Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Языки программирования\Examples\Example014_Code\obj\Debug\net7.0\Example014_Code.AssemblyInfoInputs.cache
+D:\GB\Языки программирования\Examples\Example014_Code\obj\Debug\net7.0\Example014_Code.AssemblyInfo.cs
+D:\GB\Языки программирования\Examples\Example014_Code\obj\Debug\net7.0\Example014_Code.csproj.CoreCompileInputs.cache
+D:\GB\Языки программирования\Examples\Example014_Code\obj\Debug\net7.0\Example014_Code.dll
+D:\GB\Языки программирования\Examples\Example014_Code\obj\Debug\net7.0\refint\Example014_Code.dll
+D:\GB\Языки программирования\Examples\Example014_Code\obj\Debug\net7.0\Example014_Code.pdb
+D:\GB\Языки программирования\Examples\Example014_Code\obj\Debug\net7.0\Example014_Code.genruntimeconfig.cache
+D:\GB\Языки программирования\Examples\Example014_Code\obj\Debug\net7.0\ref\Example014_Code.dll
