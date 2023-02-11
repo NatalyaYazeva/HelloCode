@@ -1,0 +1,15 @@
+D:\GB\Языки программирования\Examples\Example015_Recursion2\bin\Debug\net7.0\Example015_Recursion2.exe
+D:\GB\Языки программирования\Examples\Example015_Recursion2\bin\Debug\net7.0\Example015_Recursion2.deps.json
+D:\GB\Языки программирования\Examples\Example015_Recursion2\bin\Debug\net7.0\Example015_Recursion2.runtimeconfig.json
+D:\GB\Языки программирования\Examples\Example015_Recursion2\bin\Debug\net7.0\Example015_Recursion2.dll
+D:\GB\Языки программирования\Examples\Example015_Recursion2\bin\Debug\net7.0\Example015_Recursion2.pdb
+D:\GB\Языки программирования\Examples\Example015_Recursion2\obj\Debug\net7.0\Example015_Recursion2.csproj.AssemblyReference.cache
+D:\GB\Языки программирования\Examples\Example015_Recursion2\obj\Debug\net7.0\Example015_Recursion2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Языки программирования\Examples\Example015_Recursion2\obj\Debug\net7.0\Example015_Recursion2.AssemblyInfoInputs.cache
+D:\GB\Языки программирования\Examples\Example015_Recursion2\obj\Debug\net7.0\Example015_Recursion2.AssemblyInfo.cs
+D:\GB\Языки программирования\Examples\Example015_Recursion2\obj\Debug\net7.0\Example015_Recursion2.csproj.CoreCompileInputs.cache
+D:\GB\Языки программирования\Examples\Example015_Recursion2\obj\Debug\net7.0\Example015_Recursion2.dll
+D:\GB\Языки программирования\Examples\Example015_Recursion2\obj\Debug\net7.0\refint\Example015_Recursion2.dll
+D:\GB\Языки программирования\Examples\Example015_Recursion2\obj\Debug\net7.0\Example015_Recursion2.pdb
+D:\GB\Языки программирования\Examples\Example015_Recursion2\obj\Debug\net7.0\Example015_Recursion2.genruntimeconfig.cache
+D:\GB\Языки программирования\Examples\Example015_Recursion2\obj\Debug\net7.0\ref\Example015_Recursion2.dll
